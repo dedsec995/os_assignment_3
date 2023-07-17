@@ -1,0 +1,12 @@
+Patron #1 is eating!Patron #2 is eating!Patron #3 is eating!Patron #5 is eating!Patron #4 is eating!Patron #6 is eating!Patron #7 is eating!Patron #8 is eating!Patron #9 is eating!Patron #10 is eating!Patron #1 waited 573 ms
+Patron #2 waited 520 ms
+Patron #3 waited 264 ms
+Patron #4 waited 501 ms
+Patron #5 waited 10 ms
+Patron #6 waited 133 ms
+Patron #7 waited 10 ms
+Patron #8 waited 8 ms
+Patron #9 waited 8 ms
+Patron #10 waited 9 ms
+Average wait time: 203 ms
+num_patrons: 10
